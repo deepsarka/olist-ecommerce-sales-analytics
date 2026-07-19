@@ -25,7 +25,10 @@ This project analyzes 100,000+ real orders from Olist, a major Brazilian e-comme
 - Converted date columns, created derived fields
 - Exported cleaned tables for database loading
 
-📂 [`/python/Sales_Data_Cleaning.ipynb`](./python/Sales_Data_Cleaning.ipynb)
+📂 <img width="1150" height="557" alt="image" src="https://github.com/user-attachments/assets/b54c5d18-65c1-451f-ab33-4b0d99eb17b7" />
+<img width="1246" height="560" alt="image" src="https://github.com/user-attachments/assets/176b392d-d8dc-48ed-8192-754bac99c13b" />
+<img width="327" height="140" alt="image" src="https://github.com/user-attachments/assets/09fcfa7f-7076-44d0-b97c-8f767f40085e" />
+
 
 ### 2. SQL — Data Modeling & Analysis
 - Loaded cleaned data into PostgreSQL as 7 related tables with proper foreign keys
@@ -61,4 +64,4 @@ A 3-page interactive report connected live to the PostgreSQL database:
 
 ## Author
 **Deep Sarkar**
-Data Analyst | SQL, Python, Power BI, Tableau
+Data Analyst | Python - SQL - Power BI
