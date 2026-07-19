@@ -37,7 +37,8 @@ This project analyzes 100,000+ real orders from Olist, a major Brazilian e-comme
   - Review score vs delivery performance
   - Payment method breakdown
 
-📂 [`/sql/queries.sql`](./sql/queries.sql)
+📂 <img width="1273" height="955" alt="image" src="https://github.com/user-attachments/assets/e8eb6a92-2657-4790-b648-f468d90b5719" />
+
 
 ### 3. Power BI — Dashboard
 A 3-page interactive report connected live to the PostgreSQL database:
@@ -46,7 +47,9 @@ A 3-page interactive report connected live to the PostgreSQL database:
 - **Page 2 — Product & Seller Performance:** Top 10 Sellers by Revenue; Category Performance (Revenue vs Volume); Volume vs Revenue scatter plot; interactive slicers
 - **Page 3 — Delivery & Customer Satisfaction:** Avg Delivery Delay by State; Review Score comparison (Late vs On-Time deliveries); Delivery Delay Trend over time
 
-📂<img width="1208" height="683" alt="image" src="https://github.com/user-attachments/assets/ced34664-0d19-44db-b13c-0619a06bae02" />
+📂<img width="1206" height="682" alt="image" src="https://github.com/user-attachments/assets/8ddea88b-8917-49f6-83c4-e4e95bae1075" />
+<img width="1211" height="692" alt="image" src="https://github.com/user-attachments/assets/f56abcfa-d1c2-4c07-9efd-eabaa82841fb" />
+<img width="1208" height="683" alt="image" src="https://github.com/user-attachments/assets/ced34664-0d19-44db-b13c-0619a06bae02" />
 
 
 ## Key Insights
